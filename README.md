@@ -8,4 +8,6 @@ Sample website with plenty of files for demos
 
 ## Introduction
 
-This is an introduction of github
+This is an introduction of GitHub
+
+## Deployment
