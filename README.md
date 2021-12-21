@@ -14,6 +14,10 @@ This is an introduction of GitHub
 
 This is simplle web project
 
+## Hoe to Contribute
+
+Please fork this repository and then issue Pull request for review
+
 ## Copyright
 
 It is copyright
