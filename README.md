@@ -13,3 +13,7 @@ This is an introduction of GitHub
 ## Deployment
 
 This is simplle web project
+
+## Copyright
+
+It is copyright
